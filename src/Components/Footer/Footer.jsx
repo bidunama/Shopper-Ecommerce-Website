@@ -32,9 +32,9 @@ export default function Footer() {
         </div>
         <div className='footer-copyright'>
                 <hr />
-                <p>
-                    Copyright @ 2024 - All Rights Are Reserved.
-                </p>
+                
+                    <p>© Aman Dubey 2026</p>
+                
             </div>
     </div>
   )
